@@ -52,7 +52,7 @@ The model performs well with a balanced trade-off between bias and variance, ach
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/mynkpdr/laptop_price_prediction.git
+git clone https://github.com/mynkpdr/laptop-price-prediction.git
 cd laptop-price-prediction
 ```
 
